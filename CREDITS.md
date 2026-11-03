@@ -116,13 +116,13 @@ Source: https://commons.wikimedia.org/wiki/File:Terropterus_xiushanensis_restora
 
 ## 12 海豆芽 / Lingula
 
-Anatomical life-position silhouette / 生活姿态解剖剪影
+Living photograph silhouette / 现生照片剪影
 
-Extended lingulid shell and pedicle; sediment and retracted-position overlay excluded.
+Outline of the user-provided Lingula photograph, retaining the shell at right and complete curved pedicle extending left; sediment excluded. Exact species unverified.
 
-Christian C. Emig 2003, Fig. 4, after Emig 1982; source terms apply
+User-provided photograph; original photographer unspecified / 用户提供照片；摄影者未注明
 
-Source: https://carnetsgeol.net/cg/03/L01/index.html
+Source: User-provided m01.jpg photograph, retained in the local collection; original photographer unspecified.
 
 ## 13 花瓣海百合 / Petalocrinus
 
