@@ -1,5 +1,11 @@
 # Materials changelog / 材料更新记录
 
+## 1.2.1
+
+- Approved 56% display scale for 五房贝、石燕、无洞贝 and 小嘴贝 in both website editions (70% × 80%).
+- Names, spacing and the other 18 silhouettes remain unchanged.
+- Illustration asset packages remain v1.2.0; this patch changes website display size only.
+
 ## 1.2.0
 
 - Both website editions now share the six detailed illustrations: 五房贝, 石燕, 无洞贝, 小嘴贝, 床板珊瑚 and 螺旋海百合.

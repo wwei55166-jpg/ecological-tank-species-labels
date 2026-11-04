@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "previous_version": "1.1.0",
+  "version": "1.2.1",
+  "previous_version": "1.2.0",
   "taxa": 22,
   "detailed_taxa": [
     14,
@@ -11,12 +11,19 @@
     22
   ],
   "files_sha256": {
-    "index.html": "ea7d8f51245e55947328068e0cb8f36af01d140acc7241514f59ae01bb6fa459",
-    "black.html": "6fd1fecd373d0ffdaee91287da96e85f579e6eb2aafb328bf07213d268497482",
+    "index.html": "606becc54e636896a7d560f144c4ac304e10f52c33e514e4fe7081666a4c45e0",
+    "black.html": "ad11750b1577e5c728899e3625d0e1db1cf230525f0caa91b80359e3f623b464",
     "white-materials-v1.2.0.zip": "efd392a75470379a255195274c357af96896d6da32b00d1b1ddeb6324f354f78",
     "black-materials-v1.2.0.zip": "d790cc36820c28af8c9b0b81c1f42f2dfdba1e3acd47bd713e9dddcd9a3d3d86"
   },
   "website_white": "index.html",
   "website_black": "black.html",
-  "changelog": "CHANGELOG.md"
+  "changelog": "CHANGELOG.md",
+  "materials_version": "1.2.0",
+  "display_scale_overrides": {
+    "19": 0.56,
+    "20": 0.56,
+    "21": 0.56,
+    "22": 0.56
+  }
 }
