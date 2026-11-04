@@ -223,3 +223,8 @@ Far upper-left Rhynchotrema dentatum specimen; not a whole-animal life reconstru
 Wilson44691; Public domain
 
 Source: https://commons.wikimedia.org/wiki/File:Rhynchotremadentatum.jpg
+
+
+## Version 1.2.0 — matched white and black editions
+
+Both editions now use the six detailed, AI-assisted engraved drawings. Surface lines are simplified display interpretations. Pentamerida growth lines are schematic; Spirocrinus remains a single arm plate. Source references and original reuse conditions above still apply.

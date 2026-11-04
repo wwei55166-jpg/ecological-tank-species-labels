@@ -1,0 +1,22 @@
+{
+  "version": "1.2.0",
+  "previous_version": "1.1.0",
+  "taxa": 22,
+  "detailed_taxa": [
+    14,
+    17,
+    19,
+    20,
+    21,
+    22
+  ],
+  "files_sha256": {
+    "index.html": "ea7d8f51245e55947328068e0cb8f36af01d140acc7241514f59ae01bb6fa459",
+    "black.html": "6fd1fecd373d0ffdaee91287da96e85f579e6eb2aafb328bf07213d268497482",
+    "white-materials-v1.2.0.zip": "5deeb7b0c256f2ccab72d79649a35b2d1b22a94529e0f59fedf59181d9cd5e04",
+    "black-materials-v1.2.0.zip": "5867b6eafd071ce54afa663620d95485d2ecbad654fdd95aa0f171e2d69e1f81"
+  },
+  "website_white": "index.html",
+  "website_black": "black.html",
+  "changelog": "CHANGELOG.md"
+}
